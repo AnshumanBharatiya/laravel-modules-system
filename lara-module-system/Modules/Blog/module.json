@@ -1,0 +1,11 @@
+{
+    "name": "Blog",
+    "alias": "blog",
+    "description": "This is the Blog Modules use for demo purpose",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\Blog\\App\\Providers\\BlogServiceProvider"
+    ],
+    "files": []
+}
